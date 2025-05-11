@@ -47,10 +47,10 @@
 
 ## 🔥 Featured Projects
 <div align="center">
-  <a href="https://github.com/akhil1234A/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhil1234A&repo=project1&theme=dracula&hide_border=true" width="48%" />
+  <a href="https://github.com/akhil1234A/Eduoxy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhil1234A&repo=Eduoxy&theme=dracula&hide_border=true" width="48%" />
   </a>
-  <a href="https://github.com/akhil1234A/project2">
+  <a href="https://github.com/akhil1234A/URBANCOVE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhil1234A&repo=project2&theme=dracula&hide_border=true" width="48%" />
   </a>
 </div>
