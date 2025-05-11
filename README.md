@@ -51,7 +51,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhil1234A&repo=Eduoxy&theme=dracula&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/akhil1234A/URBANCOVE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhil1234A&repo=project2&theme=dracula&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhil1234A&repo=URBANCOVE&theme=dracula&hide_border=true" width="48%" />
   </a>
 </div>
 
